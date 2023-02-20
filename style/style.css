@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/shekvetisforma.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.dgesve {
+    width: 750px;
+    height: 100px;
+    background-color: #021010;
+    
+    margin-left: 601px;
+    margin-top: 57px;
+    margin-bottom: 62px;
+    border-radius: 20px;
+    padding: 24px 129px;
+}
+
+p.sheukvete {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+.reg {
+    width: 750px;
+    margin-left: 601px;
+
+}
+
+.reg input {
+    width: 100%;
+    height: 70px;
+    outline: none;
+    border: none;
+    background-color: #dad6d6;
+    margin-right: 90px;
+    border-bottom: 3px solid #ffffff;
+    padding: 22px;
+    font-size: 20px;
+    border-radius: 10px;
+    /* margin-bottom: 38px; */
+}
+.saxeli, .gvari{
+    margin-bottom: 38px;
+}
+
+.nomeri {
+    margin-bottom: 0px;
+}
+
+.gtxovt {
+
+    font-size: 14px;
+    margin-bottom: 12px;
+    font-weight: bold;
+
+}
+
+.reg textarea {
+    margin-top: 12px;
+    width: 750px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: #dad6d6;
+}
+
+.reg p {
+    font-size: 14px;
+    margin-top: 18px;
+    font-weight: bold;
+
+}
+
+.reg input[type="submit"] {
+    background-color: #01AF8C;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 10px;
+    border-bottom: 3px solid #021010;
+}
+
+
+
+.reg input[type="checkbox"] {
+    width: 5%;
+    margin-top: 52px;
+    margin-bottom: 50px;
+
+
+}
+
+.reg label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+.erti {
+    width: 750px;
+    height: 394px;
+    background-color: #000000;
+    margin-left: 600px;
+    margin-right: 90px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.ori {
+    width: 690px;
+    height: 255px;
+    margin-top: 90px;
+    padding-top: 70px;
+    padding-left: 36px;
+}
+
+.tkveni {
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.gakidvebis {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+.dagikavshirdebat {
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.madlobas {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.daatvalieret {
+    width: 750px;
+    height: 70px;
+    background-color: #F5BA22;
+    color: #000000;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    border-bottom: 3px solid #021010;
+    margin-left: 601px;
+    margin-top: 400px;
+    margin-bottom: 103px;
+    margin-right: 90px;
+}
